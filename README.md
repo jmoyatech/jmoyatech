@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on **Open Source** projects.
 
 ### Get in touch: ###
-- Website: http://jmoya.es
+- Website: https://jmoya.es
 - E-mail: jose ^at^ jmoya _dot_ es
 - Github: @jmoyatec
 - Twitter: https://twitter.com/jmoyatec
