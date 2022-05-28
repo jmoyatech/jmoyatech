@@ -1,4 +1,4 @@
-## Hi, I'm José M. Moya (@jmoyatec) ##
+## Hi, I'm José M. Moya ##
 
 
 - 👋 Hi, I’m **@jmoyatec**, **web developer** :man_technologist:
