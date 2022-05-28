@@ -9,7 +9,7 @@
 ### Get in touch: ###
 - Website: https://jmoya.es
 - E-mail: jose ^at^ jmoya %dot% es
-- Github: @jmoyatec
+- Github: https://github.com/jmoyatec
 - Twitter: https://twitter.com/jmoyatec
 - Linkedin: www.linkedin.com/in/jmoyatec
 - Youtube: https://www.youtube.com/channel/UCe8FD_DDr3IMp2FmcRUFL2w
