@@ -2,8 +2,8 @@
 
 
 - 👋 A.K.A. **@jmoyatec**, **web developer** :man_technologist:
-- 👀 I’m interested in **Cybersecurity**
-- 🌱 I’m currently learning **Data Visualization** and **Cybersecurity**
+- 👀 I’m interested in **Cybersecurity**.
+- 🌱 I’m currently learning **Data Visualization** and **Cybersecurity**.
 - 💞️ I’m looking to collaborate on **Open Source** projects.
 
 ### Get in touch: ###
