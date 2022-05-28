@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Data Visualization** and **Cybersecurity**
 - 💞️ I’m looking to collaborate on **Open Source** projects.
 
-:speaking_head: ### **Get in touch:** ###
+:speaking_head: ### Get in touch: ###
 - Website: http://jmoya.es
 - E-mail: jose _at jmoya _dot es
 - Github: @jmoyatec
