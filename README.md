@@ -8,7 +8,7 @@
 
 ### Get in touch: ###
 - Website: https://jmoya.es
-- E-mail: jose^at^jmoya%dot%es
+- E-mail: {hi,hola}^at^jmoya%dot%tech
 - Github: https://github.com/jmoyatech
 - Twitter: https://twitter.com/jmoyatech
 - Linkedin: www.linkedin.com/in/jmoyatech
