@@ -1,9 +1,9 @@
 ## Hi, I'm José M. Moya ##
 
 
-- 👋 A.K.A. **@jmoyatech**, **web developer** :man_technologist:
-- 👀 I’m interested in **Cybersecurity**.
-- 🌱 I’m currently learning **Data Visualization** and **Cybersecurity**.
+- 👋 A.K.A. **@jmoyatech**, **computer technician** :man_technologist:
+- 👀 I’m interested in **Information Security**.
+- 🌱 I’m currently learning **Data Visualization** and **Information Security**.
 - 💞️ I’m looking to collaborate on **Open Source** projects.
 
 ### Get in touch: ###
